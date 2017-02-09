@@ -27,8 +27,7 @@
 1[高仿企信](https://github.com/tubie/JFQiXin)<br/>
 1[高仿半糖App](https://github.com/Ryan0520/BTApp)<br/>
 1[高仿土豆](https://github.com/tubie/JFTudou)<br/>
-1[高仿半糖App](https://github.com/dalingge/JD-Mobile)<br/>
-1[JD-Mobile](https://github.com/Ryan0520/BTApp)<br/>
+1[JD-Mobile](https://github.com/dalingge/JD-Mobile)<br/>
 1[高仿喜马拉雅FM](https://github.com/Eastwu5788/XMLYFM)<br/>
 1[百度章鱼](https://github.com/Fyus1201/nuomi)<br/>
 1[Shop-iOS](https://github.com/EleTeam/Shop-iOS)<br/>
