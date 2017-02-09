@@ -22,7 +22,7 @@
 1[仿微信客户端的iOS项目](https://github.com/riversea2015/RSChat)<br/>
 1[搜索PYSearch](https://github.com/iphone5solo/PYSearch)<br/>
 1[bilibili ](https://github.com/typcn/bilibili-mac-client)<br/>
-1[高仿电商项目，采用MVVM+ReactiveCocoa](https://github.com/wangtongke/WTKMVVMRAC)<br/>
+1[高仿电商项目，采用MVVM+ReactiveCocoa->WTKMVVMRAC](https://github.com/wangtongke/WTKMVVMRAC)<br/>
 1[ECMobile](https://github.com/GeekZooStudio/ECMobile_iOS)<br/>
 1[高仿企信](https://github.com/tubie/JFQiXin)<br/>
 1[高仿半糖App](https://github.com/Ryan0520/BTApp)<br/>
